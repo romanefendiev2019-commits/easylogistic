@@ -4,9 +4,9 @@ import { useState } from "react";
 import { Calculator as CalcIcon, Loader2, AlertCircle, CheckCircle } from "lucide-react";
 
 const containerTypes = [
-  { value: "20DC", label: "20' DC (стандартный)" },
-  { value: "40DC", label: "40' DC (стандартный)" },
-  { value: "40HC", label: "40' HC (High Cube)" },
+  { value: "20DC", label: "20′ DC (стандартный)" },
+  { value: "40DC", label: "40′ DC (стандартный)" },
+  { value: "40HC", label: "40′ HC (High Cube)" },
   { value: "REF", label: "Рефрижераторный" },
   { value: "OTHER", label: "Другой" },
 ];

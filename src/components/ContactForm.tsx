@@ -230,9 +230,9 @@ export default function ContactForm() {
                       onChange={handleChange}
                       style={{ width:"100%", background:"#0a1628", border:"1px solid rgba(255,255,255,0.12)", color:"#f1f5f9", borderRadius:"12px", padding:"12px 16px", fontSize:"14px", outline:"none" }}
                     >
-                      <option value="20DC">20' DC</option>
-                      <option value="40DC">40' DC</option>
-                      <option value="40HC">40' HC</option>
+                      <option value="20DC">20&apos; DC</option>
+                      <option value="40DC">40&apos; DC</option>
+                      <option value="40HC">40&apos; HC</option>
                       <option value="REF">Рефрижераторный</option>
                       <option value="OTHER">Другой</option>
                     </select>
